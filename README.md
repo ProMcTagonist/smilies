@@ -4,8 +4,7 @@ babbys frist
 
 This is an emoticon pack intended for use in [qTox](github.com/tux3/qtox).
 
-The cat_*.svg files are modified from 
-https://code.google.com/p/noto/source/browse/#git%2Fcolor_emoji 
+The cat_*.svg files are taken and modified from [the Android color emoji set](https://code.google.com/p/noto/source/browse/#git%2Fcolor_emoji) 
 which is under the Apache 2.0 license. This is the modification notice.
 The Apache 2.0 license can be found in LICENSE.
 
