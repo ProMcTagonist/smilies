@@ -1,5 +1,9 @@
 <?xml version='1.0'?>
 <messaging-emoticon-map>
+    
+<!-- Standard emoji. All in this section must have an emoji as the first 
+  string. -->
+    
   <emoticon file="happy.svg">
     <string>☺</string>
     <string>:)</string>
@@ -325,10 +329,10 @@
     <string>😘</string>
   </emoticon> 
     
-    <emoticon file="heart.svg">
-      <string>💚</string>
-      <string>&lt;3</string>
-    </emoticon>
+  <emoticon file="heart.svg">
+    <string>💚</string>
+    <string>&lt;3</string>
+  </emoticon>
     
   <emoticon file="vmouthbig.svg">
     <string>:V</string>
@@ -381,6 +385,11 @@
   <emoticon file="devil.svg">
     <string>😈</string>
   </emoticon>
+
+<!-- Text-only. Faces that don't have emoji versions. If it turns out
+  that we need to, we'll split primary text-only and their many 
+  miniscule variations. Bug tux3 about having entries that don't display
+  in the popup maybe. -->
 
   <emoticon file="happy_bracket.svg">
     <string>:]</string>
@@ -463,6 +472,9 @@
     <string>;(</string>
     <string>;-(</string>
   </emoticon>
+  
+<!-- Hidden, special ones. These are shoved into the back page because 
+  they're sekritjoeks -->  
   
   <emoticon file="noface.svg">
     <string>😶</string>
