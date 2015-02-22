@@ -387,6 +387,11 @@
     <string>:')</string>
   </emoticon>
   
+  <emoticon file="toothy.svg">
+    <string>:B</string>
+    <string>:-B</string>
+  </emoticon>
+  
   <emoticon file="happy_bracket.svg">
     <string>:]</string>
   </emoticon>
