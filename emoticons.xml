@@ -1,0 +1,483 @@
+<?xml version='1.0'?>
+<messaging-emoticon-map>
+  <emoticon file="happy.svg">
+    <string>☺</string>
+    <string>:)</string>
+    <string>:-)</string>
+  </emoticon>
+  
+  <emoticon file="grin.svg">
+  <string>😁</string>
+  </emoticon>
+  
+  <emoticon file="happy_closed_eyes.svg">
+    <string>😊</string>
+  </emoticon>
+    
+  <emoticon file="cool.svg">
+    <string>😎</string>
+    <string>B-)</string>
+    <string>B)</string>
+  </emoticon>
+  
+  <emoticon file="stunned.svg">
+    <string>😲</string>
+    <string>:O</string>
+    <string>:-O</string>
+  </emoticon>
+    
+  <emoticon file="stunnedo.svg">
+    <string>😮</string>
+    <string>:o</string>
+    <string>:-o</string>
+  </emoticon>
+    
+  <emoticon file="stunned0.svg">
+    <string>:0</string>
+    <string>:-0</string>
+  </emoticon>
+  
+  <emoticon file="delicious.svg">
+    <string>😋</string>
+  </emoticon>
+    
+  <emoticon file="tonguebigp.svg">
+    <string>😛</string>
+    <string>:P</string>
+  </emoticon>
+
+  <emoticon file="xeyes_tonguebigp.svg">
+    <string>😝</string>
+    <string>xP</string>
+    <string>XP</string>
+  </emoticon>
+ 
+  <emoticon file="winkytongue.svg">
+    <string>😜</string>
+    <string>;P</string>
+    <string>;p</string>
+  </emoticon>
+  
+  <emoticon file="uncertain.svg">
+    <string>😕</string>
+    <string>:\</string>
+    <string>:-\</string>
+  </emoticon>
+
+  <emoticon file="wink.svg">
+    <string>😉</string>
+    <string>;)</string>
+    <string>;-)</string>
+  </emoticon>
+  
+  <emoticon file="sad.svg">
+    <string>☹</string>
+    <string>:(</string>
+    <string>:-(</string>
+  </emoticon>
+  
+  <emoticon file="crying.svg">
+    <string>😢</string>
+    <string>:'(</string>
+  </emoticon>
+  
+  <emoticon file="happy_tear.svg">
+    <string>:')</string>
+  </emoticon>
+  
+  <emoticon file="perservering.svg">
+    <string>😣</string>
+    <string>x(</string>
+    <string>X(</string>
+  </emoticon>
+  
+  <emoticon file="flushed.svg">
+    <string>😳</string>
+  </emoticon>
+  
+  <emoticon file="happy_xeyes.svg">
+    <string>x)</string>
+    <string>X)</string>
+  </emoticon>
+    
+  <emoticon file="triumph.svg">
+    <string>😤</string>
+  </emoticon>
+    
+  <emoticon file="disappointed">
+    <string>😞</string>
+  </emoticon>
+    
+  <emoticon file="disappointed_but_relieved.svg">
+    <string>😥</string>
+  </emoticon>
+    
+  <emoticon file="weary.svg">
+    <string>😩</string>
+  </emoticon>
+  
+  <emoticon file="sleepy.svg">
+    <string>😪</string>
+  </emoticon>
+  
+  <emoticon file="sleeping.svg">
+    <string>😴</string>
+  </emoticon>
+    
+  <emoticon file="tired.svg">
+    <string>😫</string>
+    <string>DX</string>
+    <string>Dx</string>
+  </emoticon>
+  
+  <emoticon file="grimace.svg">
+    <string>😬</string>
+  </emoticon>
+  
+  <emoticon file="crying_loudly.svg">
+    <string>😭</string>
+  </emoticon>
+    
+  <emoticon file="cold_sweat_open_mouth.svg">
+    <string>😰</string>
+  </emoticon>
+      
+  <emoticon file="fear_scream.svg">
+    <string>😱</string>
+  </emoticon>
+        
+  <emoticon file="medical_mask.svg">
+    <string>😷</string>
+  </emoticon>
+          
+  <emoticon file="dizzy.svg">
+    <string>😵</string>
+  </emoticon>
+            
+  <emoticon file="astonished.svg">
+    <string>😲</string>
+  </emoticon>
+  
+  <emoticon file="smile.svg">
+    <string>😃</string>
+    <string>😀</string>
+    <string>:D</string>
+    <string>:-D</string>
+  </emoticon>
+  
+  <emoticon file="smile_closed_eyes.svg">
+    <string>😄</string>
+  </emoticon>
+  
+  <emoticon file="laugh_sweat.svg">
+    <string>😅</string>
+  </emoticon>
+  
+  <emoticon file="plain.svg">
+    <string>😐</string>
+    <string>:|</string>
+    <string>:-|</string>
+  </emoticon>
+  
+  <emoticon file="expressionless.svg">
+    <string>😑</string>
+    <string>-_-</string>
+  </emoticon>
+  
+  <emoticon file="angry.svg">
+	<string>😡</string>
+    <string>😠</string>
+    <string>&gt;:(</string>
+  </emoticon>
+   
+   <emoticon file="angry_happy">
+   <string>&gt;:)</string>
+   </emoticon>
+   
+   <emoticon file="worried.svg">
+     <string>😟</string>
+   </emoticon>
+   
+   <emoticon file="frown.svg">
+     <string>😦</string>
+     <string>D:</string>
+   </emoticon>
+   
+   <emoticon file="anguish.svg">
+     <string>😧</string>
+   </emoticon>
+   
+  <emoticon file="scared.svg">
+    <string>😨</string>
+  </emoticon>
+  
+  <emoticon file="hushed.svg">
+    <string>😯</string>
+  </emoticon>
+  
+  <emoticon file="laugh_tightly_closed_eyes.svg">
+    <string>😆</string>
+    <string>xD</string>
+    <string>XD</string>
+  </emoticon>
+  
+  <emoticon file="smouthbig.svg">
+    <string>:S</string>
+  </emoticon>
+  
+  <emoticon file="smouthsmall.svg">
+    <string>:s</string>
+  </emoticon>
+  
+  <emoticon file="3.svg">h
+    <string>:3</string>
+  </emoticon>  
+  
+  <emoticon file="happylittlec.svg">
+  <string>c:</string>
+  </emoticon> 
+    
+  <emoticon file="happybigc.svg">
+  <string>C:</string>
+  </emoticon> 
+    
+  <emoticon file="sadlittlec.svg">
+  <string>:c</string>
+  </emoticon> 
+    
+  <emoticon file="sadbigc.svg">
+  <string>:C</string>
+  </emoticon> 
+    
+  <emoticon file="nsa.svg">
+  <string>:^)</string>
+  </emoticon> 
+    
+  <emoticon file="concern.svg">
+  <string>:&lt;</string>
+  </emoticon> 
+  
+  <emoticon file="chuffed.svg">
+  <string>:&gt;</string>
+  </emoticon>
+  
+  <emoticon file="smile_tears.svg">
+    <string>😂</string>
+  </emoticon>
+  
+  <emoticon file="relieved.svg">
+    <string>😌</string>
+  </emoticon>
+  
+  <emoticon file="heart_eyes.svg">
+    <string>😍</string>
+  </emoticon>
+   
+  <emoticon file="smirk.svg">
+    <string>😏</string>
+  </emoticon> 
+    
+  <emoticon file="unamused.svg">
+    <string>😒</string>
+  </emoticon> 
+  
+  <emoticon file ="xmouthbig.svg">
+    <string>:X</string>
+  </emoticon>
+   
+  <emoticon file ="xmouthsmall.svg">
+    <string>:x</string>
+  </emoticon>
+  
+  <emoticon file="cold_sweat.svg">
+    <string>😓</string>
+  </emoticon> 
+    
+  <emoticon file="pensive.svg">
+    <string>😔</string>
+  </emoticon> 
+     
+  <emoticon file="confounded.svg">
+    <string>😖</string>
+  </emoticon> 
+         
+  <emoticon file="smouthbig.svg">
+    <string>:S</string>
+  </emoticon> 
+           
+  <emoticon file="smouthsmall.svg">
+    <string>:s</string>
+  </emoticon> 
+  
+  <emoticon file="kissing.svg">
+    <string>😗</string>
+  </emoticon> 
+   
+  <emoticon file="kissing_happy.svg">
+    <string>😙</string>
+  </emoticon> 
+    
+  <emoticon file="kissing_bashful.svg">
+    <string>😚</string>
+  </emoticon> 
+   
+  <emoticon file="kissing_heart.svg">
+    <string>😘</string>
+  </emoticon> 
+    
+    <emoticon file="heart.svg">
+      <string>💚</string>
+      <string>&lt;3</string>
+    </emoticon>
+    
+  <emoticon file="vmouthbig.svg">
+    <string>:V</string>
+  </emoticon> 
+  
+  <emoticon file="vmouthsmall.svg">
+    <string>:v</string>
+  </emoticon>
+  
+  <emoticon file="cat_grin.svg">
+    <string>😸</string>
+  </emoticon>
+    
+  <emoticon file="cat_grin_tears.svg">
+    <string>😹</string>
+  </emoticon>
+    
+  <emoticon file="cat_smile.svg">
+    <string>😺</string>
+  </emoticon>
+    
+  <emoticon file="cat_hearts.svg">
+    <string>😻</string>
+  </emoticon>
+    
+  <emoticon file="cat_smirk.svg">
+    <string>😼</string>
+  </emoticon>
+    
+  <emoticon file="cat_kiss.svg">
+    <string>😽</string>
+  </emoticon>
+    
+  <emoticon file="cat_pout.svg">
+    <string>😾</string>
+  </emoticon>
+    
+  <emoticon file="cat_cry.svg">
+    <string>😿</string>
+  </emoticon>
+      
+  <emoticon file="cat_weary.svg">
+    <string>🙀</string>
+  </emoticon>
+  
+  <emoticon file="angel.svg">
+    <string>😇</string>
+  </emoticon> 
+   
+  <emoticon file="devil.svg">
+    <string>😈</string>
+  </emoticon>
+  
+  <emoticon file="Kappa.svg">
+    <string>:Kappa:</string>
+  </emoticon>
+  
+  <emoticon file="happy_bracket.svg">
+    <string>:]</string>
+  </emoticon>
+     
+  <emoticon file="sad_bracket.svg">
+    <string>:[</string>
+  </emoticon>
+     
+  <emoticon file="happy_curly.svg">
+    <string>:}</string>
+  </emoticon>
+     
+  <emoticon file="sad_curly.svg">
+    <string>:{</string>
+  </emoticon>
+     
+  <emoticon file="tonguep.svg">
+    <string>:p</string>
+  </emoticon>
+  
+  <emoticon file="tongued.svg">
+    <string>:d</string>
+  </emoticon>
+  
+  <emoticon file="tongueq.svg">
+    <string>:q</string>
+  </emoticon>
+  
+  <emoticon file="tongueb.svg">
+    <string>:b</string>
+  </emoticon>
+     
+  <emoticon file="xeyes_tonguep.svg">
+    <string>xp</string>
+    <string>Xp</string>
+  </emoticon>
+  
+  <emoticon file="xeyes_tongued.svg">
+    <string>xd</string>
+    <string>Xd</string>
+  </emoticon>
+  
+  <emoticon file="xeyes_tongueq.svg">
+    <string>xq</string>
+    <string>Xq</string>
+  </emoticon>
+  
+  <emoticon file="xeyes_tongueb.svg">
+    <string>xb</string>
+    <string>Xb</string>
+  </emoticon>
+      
+  <emoticon file="uncertain2.svg">
+    <string>:/</string>
+    <string>:-/</string>
+  </emoticon>
+  
+  <emoticon file="happy_bracket_xeyes.svg">
+    <string>x]</string>
+    <string>X]</string>
+  </emoticon>
+    
+  <emoticon file="happy_curly_xeyes.svg">
+    <string>x}</string>
+    <string>X}</string>
+  </emoticon>
+    
+  <emoticon file="sad_bracket_xeyes.svg">
+    <string>x[</string>
+    <string>X[</string>
+  </emoticon>
+    
+  <emoticon file="sad_curly_xeyes.svg">
+    <string>x{</string>
+    <string>X{</string>
+  </emoticon>
+  
+  <emoticon file="wink_sad.svg">
+    <string>;(</string>
+    <string>;-(</string>
+  </emoticon>
+  
+  <emoticon file="noface.svg">
+    <string>😶</string>
+  </emoticon>
+  
+  <emoticon file="lenny.svg">
+    <string>( ͡° ͜ʖ ͡°)</string>
+  </emoticon>
+  
+  <emoticon file="happy_black.svg">
+    <string>☻</string>
+  </emoticon>
+  
+</messaging-emoticon-map>
