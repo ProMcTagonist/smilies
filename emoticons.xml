@@ -84,11 +84,7 @@
     <string>😢</string>
     <string>:'(</string>
   </emoticon>
-  
-  <emoticon file="happy_tear.svg">
-    <string>:')</string>
-  </emoticon>
-  
+
   <emoticon file="perservering.svg">
     <string>😣</string>
     <string>x(</string>
@@ -252,11 +248,7 @@
   <emoticon file="sadbigc.svg">
   <string>:C</string>
   </emoticon> 
-    
-  <emoticon file="nsa.svg">
-  <string>:^)</string>
-  </emoticon> 
-    
+
   <emoticon file="concern.svg">
   <string>:&lt;</string>
   </emoticon> 
@@ -390,7 +382,11 @@
   that we need to, we'll split primary text-only and their many 
   miniscule variations. Bug tux3 about having entries that don't display
   in the popup maybe. -->
-
+  
+  <emoticon file="happy_tear.svg">
+    <string>:')</string>
+  </emoticon>
+  
   <emoticon file="happy_bracket.svg">
     <string>:]</string>
   </emoticon>
@@ -473,19 +469,26 @@
     <string>;-(</string>
   </emoticon>
   
-<!-- Hidden, special ones. These are shoved into the back page because 
-  they're sekritjoeks -->  
-  
+<!-- Emoji that need to be supported but probably aren't going to be 
+  clicked on. -->
+    
   <emoticon file="noface.svg">
     <string>😶</string>
   </emoticon>
-  
-  <emoticon file="lenny.svg">
-    <string>( ͡° ͜ʖ ͡°)</string>
-  </emoticon>
-  
+    
   <emoticon file="happy_black.svg">
     <string>☻</string>
   </emoticon>
   
+<!-- Hidden, special ones. These are shoved into the back page because 
+  they're sekritjoeks -->  
+      
+  <emoticon file="nsa.svg">
+    <string>:^)</string>
+  </emoticon> 
+    
+  <emoticon file="lenny.svg">
+    <string>( ͡° ͜ʖ ͡°)</string>
+  </emoticon>
+
 </messaging-emoticon-map>

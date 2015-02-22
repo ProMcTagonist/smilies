@@ -25,8 +25,10 @@ Restart qTox and then select smilies-master from Settings > General > Theme.
 
 ## Contributing
 
-If you'd like to help out, take a look at TODO and do those. We also want winky, angry, X-eyes, and 8-eyes versions of everything that those work with.
+If you'd like to help out, take a look at TODO and do those. We also want winky, angry, X-eyes, and 8-eyes versions of everything that those work with. And emoticons.xml needs organization.
 
-I try to keep them looking consistent by reusing elements and using Paste in Place (ctrl+alt+v in Inkscape).
+If you're not graphcally inclined you should make issues about emoticons you'd like to see here.
+
+Note: I try to keep them looking consistent by reusing elements and using Paste in Place (ctrl+alt+v in Inkscape). 
 
 If you like to edit svgs with a text editor i'm sorry
