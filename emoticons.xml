@@ -307,6 +307,10 @@
   
   <emoticon file="kissing.svg">
     <string>😗</string>
+    <string>:*</string>
+    <string>:-*</string>
+    <string>:"</string>
+    <atring>:-"</atring>
   </emoticon> 
    
   <emoticon file="kissing_happy.svg">
