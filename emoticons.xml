@@ -68,7 +68,7 @@
     <string>:-\</string>
   </emoticon>
 
-  <emoticon file="wink.svg">
+  <emoticon file="happy_wink.svg">
     <string>😉</string>
     <string>;)</string>
     <string>;-)</string>
@@ -477,9 +477,24 @@
     <string>X{</string>
   </emoticon>
   
-  <emoticon file="wink_sad.svg">
+  <emoticon file="sad_wink.svg">
     <string>;(</string>
     <string>;-(</string>
+  </emoticon>
+  
+  <emoticon file="stunned_wink.svg">
+    <string>;O</string>
+    <string>;-O</string>
+  </emoticon>
+    
+  <emoticon file="stunnedo_wink.svg">
+    <string>;o</string>
+    <string>;-o</string>
+  </emoticon>
+    
+  <emoticon file="stunned0_wink.svg">
+    <string>;0</string>
+    <string>;-0</string>
   </emoticon>
   
 <!-- Emoji that need to be supported but probably aren't going to be 
