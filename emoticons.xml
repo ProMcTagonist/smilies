@@ -529,37 +529,38 @@
   </emoticon>
     
   <emoticon file="concern.svg">
-  <string>:&lt;</string>
+    <string>:&lt;</string>
   </emoticon> 
   
   <emoticon file="concern_8eyes.svg">
-  <string>8&lt;</string>
+    <string>8&lt;</string>
   </emoticon> 
   
   <emoticon file="concern_wink.svg">
-  <string>;&lt;</string>
+    <string>;&lt;</string>
   </emoticon> 
   
   <emoticon file="concern_xeyes.svg">
-  <string>x&lt;</string>
-  <string>X&lt;</string>
+    <string>x&lt;</string>
+    <string>X&lt;</string>
   </emoticon>
   
   <emoticon file="chuffed.svg">
-  <string>:&gt;</string>
+    <string>:&gt;</string>
   </emoticon>
   
   <emoticon file="chuffed_8eyes.svg">
-  <string>8&gt;</string>
+    <string>8&gt;</string>
   </emoticon>
   
   <emoticon file="chuffed_wink.svg">
-  <string>;&gt;</string>
+    <string>;&gt;</string>
   </emoticon>
   
   <emoticon file="chuffed_xeyes.svg">
-  <string>x&gt;</string>
-  <string>X&gt;</string>
+    <string>(´･ ω ･`)</string>
+    <string>x&gt;</string>
+    <string>X&gt;</string>
   </emoticon>
   
 <!-- Emoji that need to be supported but probably aren't going to be 
