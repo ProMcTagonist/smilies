@@ -1,6 +1,12 @@
 <?xml version='1.0'?>
 <messaging-emoticon-map>
     
+<!-- Naming convention: (base||mouth)_eyes.svg just look at some 
+  eyes: 8eyes wink xeyes angry
+  conversion in progress
+  
+  some can't comply because of stupid emoji things  -->
+    
 <!-- Standard emoji. All in this section must have an emoji as the first 
   string. -->
     
@@ -50,16 +56,15 @@
     <string>:P</string>
   </emoticon>
 
-  <emoticon file="xeyes_tonguebigp.svg">
+  <emoticon file="tonguebigp_xeyes.svg">
     <string>😝</string>
     <string>xP</string>
     <string>XP</string>
   </emoticon>
  
-  <emoticon file="winkytongue.svg">
+  <emoticon file="tonguebigp_wink.svg">
     <string>😜</string>
     <string>;P</string>
-    <string>;p</string>
   </emoticon>
   
   <emoticon file="uncertain.svg">
@@ -184,13 +189,13 @@
     <string>-_-</string>
   </emoticon>
   
-  <emoticon file="angry.svg">
+  <emoticon file="sad_angry.svg">
 	<string>😡</string>
     <string>😠</string>
     <string>&gt;:(</string>
   </emoticon>
    
-   <emoticon file="angry_happy">
+   <emoticon file="happy_angry.svg">
    <string>&gt;:)</string>
    </emoticon>
    
@@ -228,11 +233,7 @@
   <emoticon file="smouthsmall.svg">
     <string>:s</string>
   </emoticon>
-  
-  <emoticon file="3.svg">h
-    <string>:3</string>
-  </emoticon>  
-  
+
   <emoticon file="happylittlec.svg">
   <string>c:</string>
   </emoticon> 
@@ -249,14 +250,6 @@
   <string>:C</string>
   </emoticon> 
 
-  <emoticon file="concern.svg">
-  <string>:&lt;</string>
-  </emoticon> 
-  
-  <emoticon file="chuffed.svg">
-  <string>:&gt;</string>
-  </emoticon>
-  
   <emoticon file="smile_tears.svg">
     <string>😂</string>
   </emoticon>
@@ -391,13 +384,51 @@
     <string>:')</string>
   </emoticon>
   
-  <emoticon file="x3.svg">
+  <emoticon file="3.svg">
+    <string>:3</string>
+  </emoticon>
+  
+  <emoticon file="3_8eyes.svg">
+    <string>83</string>
+  </emoticon>
+    
+  <emoticon file="3_angry.svg">
+    <string>&gt;:3</string>
+  </emoticon>
+  
+  <emoticon file="3_wink.svg">
+    <string>;3</string>
+  </emoticon>
+  
+  <emoticon file="3_xeyes.svg">
     <string>x3</string>
   </emoticon>
   
   <emoticon file="toothy.svg">
     <string>:B</string>
     <string>:-B</string>
+  </emoticon>
+    
+  <emoticon file="toothy_8eyes.svg">
+    <string>8B</string>
+    <string>8-B</string>
+  </emoticon>
+    
+  <emoticon file="toothy_angry.svg">
+    <string>&gt;:B</string>
+    <string>&gt;:-B</string>
+  </emoticon>
+    
+  <emoticon file="toothy_wink.svg">
+    <string>;B</string>
+    <string>;-B</string>
+  </emoticon>
+    
+  <emoticon file="toothy_xeyes.svg">
+    <string>xB</string>
+    <string>x-B</string>
+    <string>XB</string>
+    <string>X-B</string>
   </emoticon>
   
   <emoticon file="happy_bracket.svg">
@@ -432,22 +463,22 @@
     <string>:b</string>
   </emoticon>
      
-  <emoticon file="xeyes_tonguep.svg">
+  <emoticon file="tonguep_xeyes.svg">
     <string>xp</string>
     <string>Xp</string>
   </emoticon>
   
-  <emoticon file="xeyes_tongued.svg">
+  <emoticon file="tongued_xeyes.svg">
     <string>xd</string>
     <string>Xd</string>
   </emoticon>
   
-  <emoticon file="xeyes_tongueq.svg">
+  <emoticon file="tongueq_xeyes.svg">
     <string>xq</string>
     <string>Xq</string>
   </emoticon>
   
-  <emoticon file="xeyes_tongueb.svg">
+  <emoticon file="tongueb_xeyes.svg">
     <string>xb</string>
     <string>Xb</string>
   </emoticon>
@@ -495,6 +526,40 @@
   <emoticon file="stunned0_wink.svg">
     <string>;0</string>
     <string>;-0</string>
+  </emoticon>
+    
+  <emoticon file="concern.svg">
+  <string>:&lt;</string>
+  </emoticon> 
+  
+  <emoticon file="concern_8eyes.svg">
+  <string>8&lt;</string>
+  </emoticon> 
+  
+  <emoticon file="concern_wink.svg">
+  <string>;&lt;</string>
+  </emoticon> 
+  
+  <emoticon file="concern_xeyes.svg">
+  <string>x&lt;</string>
+  <string>X&lt;</string>
+  </emoticon>
+  
+  <emoticon file="chuffed.svg">
+  <string>:&gt;</string>
+  </emoticon>
+  
+  <emoticon file="chuffed_8eyes.svg">
+  <string>8&gt;</string>
+  </emoticon>
+  
+  <emoticon file="chuffed_wink.svg">
+  <string>;&gt;</string>
+  </emoticon>
+  
+  <emoticon file="chuffed_xeyes.svg">
+  <string>x&gt;</string>
+  <string>X&gt;</string>
   </emoticon>
   
 <!-- Emoji that need to be supported but probably aren't going to be 
