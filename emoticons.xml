@@ -387,6 +387,10 @@
     <string>:')</string>
   </emoticon>
   
+  <emoticon file="x3.svg">
+    <string>x3</string>
+  </emoticon>
+  
   <emoticon file="toothy.svg">
     <string>:B</string>
     <string>:-B</string>
