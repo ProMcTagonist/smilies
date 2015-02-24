@@ -31,22 +31,11 @@
   </emoticon>
   
   <emoticon file="stunned.svg">
-    <string>😲</string>
+    <string>😮</string>
     <string>:O</string>
     <string>:-O</string>
   </emoticon>
-    
-  <emoticon file="stunnedo.svg">
-    <string>😮</string>
-    <string>:o</string>
-    <string>:-o</string>
-  </emoticon>
-    
-  <emoticon file="stunned0.svg">
-    <string>:0</string>
-    <string>:-0</string>
-  </emoticon>
-  
+
   <emoticon file="delicious.svg">
     <string>😋</string>
   </emoticon>
@@ -128,13 +117,7 @@
   <emoticon file="sleeping.svg">
     <string>😴</string>
   </emoticon>
-    
-  <emoticon file="tired.svg">
-    <string>😫</string>
-    <string>DX</string>
-    <string>Dx</string>
-  </emoticon>
-  
+
   <emoticon file="grimace.svg">
     <string>😬</string>
   </emoticon>
@@ -159,10 +142,6 @@
     <string>😵</string>
   </emoticon>
             
-  <emoticon file="astonished.svg">
-    <string>😲</string>
-  </emoticon>
-  
   <emoticon file="smile.svg">
     <string>😃</string>
     <string>😀</string>
@@ -206,7 +185,25 @@
      <string>😦</string>
      <string>D:</string>
    </emoticon>
-   
+          
+   <emoticon file="frown_8eyes.svg">
+     <string>D8</string>
+   </emoticon>
+       
+   <emoticon file="frown_angry.svg">
+     <string>D:&lt;</string>
+   </emoticon>
+    
+   <emoticon file="frown_wink.svg">
+     <string>D;</string>
+   </emoticon>
+    
+  <emoticon file="frown_xeyes.svg">
+    <string>😫</string>
+    <string>DX</string>
+    <string>Dx</string>
+  </emoticon>
+  
    <emoticon file="anguish.svg">
      <string>😧</string>
    </emoticon>
@@ -434,8 +431,29 @@
     <string>X-B</string>
   </emoticon>
   
+  <emoticon file="happy_8eyes.svg">
+    <string>8)</string>
+  </emoticon>
+  
   <emoticon file="happy_bracket.svg">
     <string>:]</string>
+  </emoticon>
+         
+  <emoticon file="happy_bracket_8eyes.svg">
+    <string>8]</string>
+  </emoticon>
+       
+  <emoticon file="happy_bracket_angry.svg">
+    <string>&gt;:]</string>
+  </emoticon>
+     
+  <emoticon file="happy_bracket_xeyes.svg">
+    <string>X]</string>
+    <string>x]</string>
+  </emoticon>
+       
+  <emoticon file="happy_bracket_wink.svg">
+    <string>;]</string>
   </emoticon>
      
   <emoticon file="sad_bracket.svg">
@@ -445,7 +463,24 @@
   <emoticon file="happy_curly.svg">
     <string>:}</string>
   </emoticon>
+           
+  <emoticon file="happy_curly_8eyes.svg">
+    <string>8}</string>
+  </emoticon>
+          
+  <emoticon file="happy_curly_angry.svg">
+    <string>&gt;:}</string>
+  </emoticon>
+         
+  <emoticon file="happy_curly_wink.svg">
+    <string>;}</string>
+  </emoticon>
      
+  <emoticon file="happy_curly_xeyes.svg">
+    <string>x}</string>
+    <string>X}</string>
+  </emoticon>
+    
   <emoticon file="sad_curly.svg">
     <string>:{</string>
   </emoticon>
@@ -490,17 +525,7 @@
     <string>:/</string>
     <string>:-/</string>
   </emoticon>
-  
-  <emoticon file="happy_bracket_xeyes.svg">
-    <string>x]</string>
-    <string>X]</string>
-  </emoticon>
-    
-  <emoticon file="happy_curly_xeyes.svg">
-    <string>x}</string>
-    <string>X}</string>
-  </emoticon>
-    
+
   <emoticon file="sad_bracket_xeyes.svg">
     <string>x[</string>
     <string>X[</string>
@@ -521,10 +546,25 @@
     <string>;-O</string>
   </emoticon>
     
+  <emoticon file="stunned_8eyes.svg">
+    <string>😲</string>
+  </emoticon>
+        
+  <emoticon file="stunnedo.svg">
+    <string>:o</string>
+    <string>:-o</string>
+  </emoticon>
+    
   <emoticon file="stunnedo_wink.svg">
     <string>;o</string>
     <string>;-o</string>
   </emoticon>
+    
+  <emoticon file="stunned0.svg">
+    <string>:0</string>
+    <string>:-0</string>
+  </emoticon>
+  
     
   <emoticon file="stunned0_wink.svg">
     <string>;0</string>
