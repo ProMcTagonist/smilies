@@ -186,11 +186,10 @@
   
   <emoticon file="expressionless.svg">
     <string>😑</string>
-    <string>-_-</string>
   </emoticon>
   
   <emoticon file="sad_angry.svg">
-	<string>😡</string>
+    <string>😡</string>
     <string>😠</string>
     <string>&gt;:(</string>
   </emoticon>
@@ -331,6 +330,10 @@
     <string>:v</string>
   </emoticon>
   
+  <emoticon file="cat_face.svg">
+    <string>🐱</string>
+  </emoticon>
+  
   <emoticon file="cat_grin.svg">
     <string>😸</string>
   </emoticon>
@@ -355,7 +358,7 @@
     <string>😽</string>
   </emoticon>
     
-  <emoticon file="cat_pout.svg">
+  <emoticon file="cat_pout.svg"> 🐱
     <string>😾</string>
   </emoticon>
     
@@ -558,7 +561,6 @@
   </emoticon>
   
   <emoticon file="chuffed_xeyes.svg">
-    <string>(´･ ω ･`)</string>
     <string>x&gt;</string>
     <string>X&gt;</string>
   </emoticon>
