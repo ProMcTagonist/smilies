@@ -79,7 +79,7 @@
     <string>:'(</string>
   </emoticon>
 
-  <emoticon file="perservering.svg">
+  <emoticon file="sad_xeyes.svg">
     <string>😣</string>
     <string>x(</string>
     <string>X(</string>
@@ -275,9 +275,43 @@
   <emoticon file="sad_littlec.svg">
   <string>:c</string>
   </emoticon> 
+          
+  <emoticon file="sad_littlec_8eyes.svg">
+  <string>8c</string>
+  </emoticon> 
+        
+  <emoticon file="sad_littlec_angry.svg">
+  <string>&gt;:c</string>
+  </emoticon> 
+        
+  <emoticon file="sad_littlec_wink.svg">
+  <string>;c</string>
+  </emoticon> 
+      
+  <emoticon file="sad_littlec_xeyes.svg">
+  <string>Xc</string>
+  <string>xc</string>
+  </emoticon> 
     
   <emoticon file="sad_bigc.svg">
   <string>:C</string>
+  </emoticon> 
+        
+  <emoticon file="sad_bigc_8eyes.svg">
+  <string>8C</string>
+  </emoticon> 
+   
+  <emoticon file="sad_bigc_angry.svg">
+  <string>&gt;:C</string>
+  </emoticon> 
+ 
+  <emoticon file="sad_bigc_wink.svg">
+  <string>;C</string>
+  </emoticon> 
+
+  <emoticon file="sad_bigc_xeyes.svg">
+  <string>XC</string>
+  <string>xC</string>
   </emoticon> 
 
   <emoticon file="smile_tears.svg">
@@ -413,9 +447,30 @@
   that we need to, we'll split primary text-only and their many 
   miniscule variations. Bug tux3 about having entries that don't display
   in the popup maybe. -->
-  
+    
+  <emoticon file="sad_8eyes.svg">
+    <string>8(</string>
+  </emoticon>
+      
   <emoticon file="happy_tear.svg">
     <string>:')</string>
+  </emoticon>
+      
+  <emoticon file="happy_tear_8eyes.svg">
+    <string>8')</string>
+  </emoticon>
+    
+  <emoticon file="happy_tear_angry.svg">
+    <string>&gt;:')</string>
+  </emoticon>
+    
+  <emoticon file="happy_tear_wink.svg">
+    <string>;')</string>
+  </emoticon>
+  
+  <emoticon file="happy_tear_xeyes.svg">
+    <string>X')</string>
+    <string>x')</string>
   </emoticon>
   
   <emoticon file="3.svg">
