@@ -25,9 +25,9 @@ Restart qTox and then select smilies-master from Settings > General > Theme.
 
 ## Contributing
 
-If you'd like to help out, take a look at TODO and do those. We also want winky, angry, X-eyes, and 8-eyes versions of everything that those work with. And emoticons.xml needs organization.
+If you'd like to help out, take a look at TODO and do those. We also need _8eyes, _angry, _wink, and _xeyes versions of everything that those work with. And emoticons.xml needs organization.
 
-If you're not graphcally inclined you should make issues about emoticons you'd like to see here.
+You should also make issues about any emoticons you'd like to see here. I'm not doing non-sideways ones/kaomoji anytime soon though.
 
 Note: I try to keep them looking consistent by reusing elements and using Paste in Place (ctrl+alt+v in Inkscape). 
 
