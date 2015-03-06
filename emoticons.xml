@@ -333,15 +333,7 @@
   <emoticon file="unamused.svg">
     <string>😒</string>
   </emoticon> 
-  
-  <emoticon file ="xmouthbig.svg">
-    <string>:X</string>
-  </emoticon>
-   
-  <emoticon file ="xmouthsmall.svg">
-    <string>:x</string>
-  </emoticon>
-  
+
   <emoticon file="cold_sweat.svg">
     <string>😓</string>
   </emoticon> 
@@ -692,6 +684,38 @@
   <emoticon file="chuffed_xeyes.svg">
     <string>x&gt;</string>
     <string>X&gt;</string>
+  </emoticon>
+    
+  <emoticon file ="xmouthbig.svg">
+    <string>:X</string>
+  </emoticon>
+         
+  <emoticon file ="xmouthbig_8eyes.svg">
+    <string>8X</string>
+  </emoticon>
+       
+  <emoticon file ="xmouthbig_angry.svg">
+    <string>&gt;:X</string>
+  </emoticon>
+       
+  <emoticon file ="xmouthbig_wink.svg">
+    <string>;X</string>
+  </emoticon>
+   
+  <emoticon file ="xmouthsmall.svg">
+    <string>:x</string>
+  </emoticon>
+        
+  <emoticon file ="xmouthsmall_8eyes.svg">
+    <string>8x</string>
+  </emoticon>
+     
+  <emoticon file ="xmouthsmall_angry.svg">
+    <string>&gt;:x</string>
+  </emoticon>
+  
+  <emoticon file ="xmouthsmall_wink.svg">
+    <string>;x</string>
   </emoticon>
   
 <!-- Emoji that need to be supported but probably aren't going to be 
