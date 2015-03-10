@@ -598,7 +598,51 @@
     <string>:/</string>
     <string>:-/</string>
   </emoticon>
+               
+  <emoticon file="uncertain2_8eyes.svg">
+    <string>8/</string>
+    <string>8-/</string>
+  </emoticon>
+      
+  <emoticon file="uncertain2_angry.svg">
+    <string>&gt;:/</string>
+    <string>&gt;:-/</string>
+  </emoticon>
+   
+  <emoticon file="uncertain2_wink.svg">
+    <string>;/</string>
+    <string>;-/</string>
+  </emoticon>
 
+  <emoticon file="uncertain2_xeyes.svg">
+    <string>X/</string>
+    <string>X-/</string>
+    <string>x/</string>
+    <string>x-/</string>
+  </emoticon>
+      
+  <emoticon file="uncertain_8eyes.svg">
+    <string>8\</string>
+    <string>8-\</string>
+  </emoticon>
+            
+  <emoticon file="uncertain_angry.svg">
+    <string>&gt;:\</string>
+    <string>&gt;:-\</string>
+  </emoticon>
+           
+  <emoticon file="uncertain_wink.svg">
+    <string>;\</string>
+    <string>;-\</string>
+  </emoticon>
+          
+  <emoticon file="uncertain_xeyes.svg">
+    <string>X\</string>
+    <string>X-\</string>
+    <string>x\</string>
+    <string>x-\</string>
+  </emoticon>
+     
   <emoticon file="sad_bracket_xeyes.svg">
     <string>x[</string>
     <string>X[</string>
