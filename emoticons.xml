@@ -378,15 +378,7 @@
     <string>💚</string>
     <string>&lt;3</string>
   </emoticon>
-    
-  <emoticon file="vmouthbig.svg">
-    <string>:V</string>
-  </emoticon> 
-  
-  <emoticon file="vmouthsmall.svg">
-    <string>:v</string>
-  </emoticon>
-  
+
   <emoticon file="cat_face.svg">
     <string>🐱</string>
   </emoticon>
@@ -716,6 +708,48 @@
   
   <emoticon file ="xmouthsmall_wink.svg">
     <string>;x</string>
+  </emoticon>
+      
+  <emoticon file="vmouthbig.svg">
+    <string>:V</string>
+  </emoticon> 
+           
+  <emoticon file="vmouthbig_8eyes.svg">
+    <string>8V</string>
+  </emoticon> 
+        
+  <emoticon file="vmouthbig_angry.svg">
+    <string>&gt;:V</string>
+  </emoticon> 
+        
+  <emoticon file="vmouthbig_wink.svg">
+    <string>;V</string>
+  </emoticon> 
+     
+  <emoticon file="vmouthbig_xeyes.svg">
+    <string>XV</string>
+    <string>xV</string>
+  </emoticon> 
+  
+  <emoticon file="vmouthsmall.svg">
+    <string>:v</string>
+  </emoticon>
+          
+  <emoticon file="vmouthsmall_8eyes.svg">
+    <string>8v</string>
+  </emoticon>
+  
+  <emoticon file="vmouthsmall_angry.svg">
+    <string>&gt;:v</string>
+  </emoticon>
+  
+  <emoticon file="vmouthsmall_wink.svg">
+    <string>;v</string>
+  </emoticon>
+  
+  <emoticon file="vmouthsmall_xeyes.svg">
+    <string>Xv</string>
+    <string>xv</string>
   </emoticon>
   
 <!-- Emoji that need to be supported but probably aren't going to be 
