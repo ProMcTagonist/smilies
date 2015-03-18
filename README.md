@@ -1,6 +1,6 @@
 # Smilies
 
-![row of example emoticons](https://raw.github.com/ProMcTagonist/smilies/master/sample.png "repos without screenshots deserve to die")
+![row of example emoticons screenshat in qTox at 30px](https://raw.github.com/ProMcTagonist/smilies/master/sample.png "row of example emoticons screenshat in qTox at 30px")
 
 This is an emoticon pack intended for use in [qTox](github.com/tux3/qtox).
 
