@@ -4,7 +4,7 @@
 
 This is an emoticon pack intended for use in [qTox](github.com/tux3/qtox).
 
-Its goals are to satisfy my personal pickiness about emoticon sets. It skins many emoji for compatibility, and also skins a great deal of text emoticons that people I know use. I dislike :emoticons: because stickers should be used for this concept instead.
+Its goal is to satisfy my personal pickiness about emoticon sets. It skins many emoji for compatibility, and also skins a great deal of text emoticons that people I know use. I dislike :emoticons: because stickers should be used for this concept instead.
 
 The cat_*.svg files are taken and modified from [the Android color emoji set](https://code.google.com/p/noto/source/browse/#git%2Fcolor_emoji) 
 which is under the Apache 2.0 license. 
