@@ -13,8 +13,6 @@ I also used the hearts from cat_hearts.svg everywhere you see hearts.
 
 The rest are based on [Krepa's work](https://github.com/tux3/qTox/tree/master/smileys/krepa098) and are GPLv3ed.
 
-Licensing is being worked on and GitHub is where everyone can be reached easily don't sue me yet
-
 
 ## Installing
 
