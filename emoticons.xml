@@ -796,6 +796,27 @@
     <string>xv</string>
   </emoticon>
   
+  <emoticon file="question.svg">
+    <string>:?</string>
+  </emoticon>
+          
+  <emoticon file="question_8eyes.svg">
+    <string>8?</string>
+  </emoticon>
+  
+  <emoticon file="question_angry.svg">
+    <string>&gt;:?</string>
+  </emoticon>
+  
+  <emoticon file="question_wink.svg">
+    <string>;?</string>
+  </emoticon>
+  
+  <emoticon file="question_xeyes.svg">
+    <string>X?</string>
+    <string>x?</string>
+  </emoticon>
+  
 <!-- Emoji that need to be supported but probably aren't going to be 
   clicked on. -->
     
