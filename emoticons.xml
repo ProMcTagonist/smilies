@@ -665,8 +665,20 @@
     
   <emoticon file="stunned_8eyes.svg">
     <string>😲</string>
+    <string>8O</string>
+    <string>8-O</string>
   </emoticon>
-        
+     
+  <emoticon file="stunned_angry.svg">
+    <string>&gt;:O</string>
+    <stunned>&gt;:-O</stunned>
+  </emoticon>
+         
+  <emoticon file="stunned_xeyes.svg">
+    <string>xO</string>
+    <stunned>XO</stunned>
+  </emoticon>
+          
   <emoticon file="stunnedo.svg">
     <string>:o</string>
     <string>:-o</string>
@@ -676,16 +688,45 @@
     <string>;o</string>
     <string>;-o</string>
   </emoticon>
+          
+  <emoticon file="stunnedo_8eyes.svg">
+    <string>8o</string>
+    <string>8-o</string>
+  </emoticon>
+              
+  <emoticon file="stunnedo_angry.svg">
+    <string>&gt;:o</string>
+    <string>&gt;:-o</string>
+  </emoticon>
+        
+  <emoticon file="stunnedo_xeyes.svg">
+    <string>xo</string>
+    <string>Xo</string>
+  </emoticon>
     
   <emoticon file="stunned0.svg">
     <string>:0</string>
     <string>:-0</string>
   </emoticon>
-  
     
   <emoticon file="stunned0_wink.svg">
     <string>;0</string>
     <string>;-0</string>
+  </emoticon>
+         
+  <emoticon file="stunned0_8eyes.svg">
+    <string>80</string>
+    <string>8-0</string>
+  </emoticon>
+        
+  <emoticon file="stunned0_angry.svg">
+    <string>&gt;:0</string>
+    <string>&gt;:-0</string>
+  </emoticon>
+       
+  <emoticon file="stunned0_xeyes.svg">
+    <string>X0</string>
+    <string>x0</string>
   </emoticon>
     
   <emoticon file="concern.svg">
