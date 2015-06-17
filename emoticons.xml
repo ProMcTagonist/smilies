@@ -899,6 +899,27 @@
     <string>Xu</string>
     <string>xu</string>
   </emoticon>
+    
+  <emoticon file="I.svg">
+    <string>:I</string>
+  </emoticon>
+      
+  <emoticon file="I_8eyes.svg">
+    <string>8I</string>
+  </emoticon>
+          
+  <emoticon file="I_angry.svg">
+    <string>&gt;:I</string>
+  </emoticon>
+        
+  <emoticon file="I_wink.svg">
+    <string>;I</string>
+  </emoticon>
+      
+  <emoticon file="I_xeyes.svg">
+    <string>XI</string>
+    <string>xI</string>
+  </emoticon>
   
   
 <!-- Emoji that need to be supported but probably aren't going to be 
