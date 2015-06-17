@@ -857,6 +857,49 @@
     <string>X?</string>
     <string>x?</string>
   </emoticon>
+    
+  <emoticon file="umouthbig.svg">
+    <string>:U</string>
+  </emoticon>
+          
+  <emoticon file="umouthbig_8eyes.svg">
+    <string>8U</string>
+  </emoticon>
+  
+  <emoticon file="umouthbig_angry.svg">
+    <string>&gt;:U</string>
+  </emoticon>
+  
+  <emoticon file="umouthbig_wink.svg">
+    <string>;U</string>
+  </emoticon>
+  
+  <emoticon file="umouthbig_xeyes.svg">
+    <string>XU</string>
+    <string>xU</string>
+  </emoticon>
+      
+  <emoticon file="umouthlittle.svg">
+    <string>:u</string>
+  </emoticon>
+          
+  <emoticon file="umouthlittle_8eyes.svg">
+    <string>8u</string>
+  </emoticon>
+  
+  <emoticon file="umouthlittle_angry.svg">
+    <string>&gt;:u</string>
+  </emoticon>
+  
+  <emoticon file="umouthlittle_wink.svg">
+    <string>;u</string>
+  </emoticon>
+  
+  <emoticon file="umouthlittle_xeyes.svg">
+    <string>Xu</string>
+    <string>xu</string>
+  </emoticon>
+  
   
 <!-- Emoji that need to be supported but probably aren't going to be 
   clicked on. -->
